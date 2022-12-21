@@ -30,4 +30,4 @@
 #### 깊이/너비 우선 탐색(DFS/BFS)
 
 - [합이 같은 부분집합]()
-- [바둑이 승차]()
+- [바둑이 승차](https://github.com/0seony/algorithm-study/blob/230d06f2841a30c54cbb51fe89f25220f7446e36/Inflearn/DFS&BFS/%EB%B0%94%EB%91%91%EC%9D%B4%20%EC%8A%B9%EC%B0%A8.md)
