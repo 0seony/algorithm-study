@@ -17,9 +17,13 @@
 
 ### Silver
 
-- [9934 완전 이진 트리]()
+- [9934 완전 이진 트리](https://github.com/0seony/algorithm-study/blob/64a9fb1f9bdcc6180509e1bca5a3af012dc6da92/Baekjoon/9934.md)
+- [3273 두 수의 합](https://github.com/0seony/algorithm-study/blob/64a9fb1f9bdcc6180509e1bca5a3af012dc6da92/Baekjoon/3273.md)
+- [1911 흙길 보수하기](https://github.com/0seony/algorithm-study/blob/64a9fb1f9bdcc6180509e1bca5a3af012dc6da92/Baekjoon/1911.md) 🔨
 
 ### Gold
+
+- [2109 순회강연](https://github.com/0seony/algorithm-study/blob/64a9fb1f9bdcc6180509e1bca5a3af012dc6da92/Baekjoon/2109.md)
 
 <br>
 
@@ -39,3 +43,9 @@
 
 - [합이 같은 부분집합]()
 - [바둑이 승차](https://github.com/0seony/algorithm-study/blob/230d06f2841a30c54cbb51fe89f25220f7446e36/Inflearn/DFS&BFS/%EB%B0%94%EB%91%91%EC%9D%B4%20%EC%8A%B9%EC%B0%A8.md)
+
+#### 그리디 알고리즘
+
+- [씨름 선수](https://github.com/0seony/algorithm-study/blob/64a9fb1f9bdcc6180509e1bca5a3af012dc6da92/Inflearn/Greedy/%EC%94%A8%EB%A6%84%20%EC%84%A0%EC%88%98.md)
+- [결혼식](https://github.com/0seony/algorithm-study/blob/64a9fb1f9bdcc6180509e1bca5a3af012dc6da92/Inflearn/Greedy/%EA%B2%B0%ED%98%BC%EC%8B%9D.md)
+- [최대 수입 스케줄](https://github.com/0seony/algorithm-study/blob/64a9fb1f9bdcc6180509e1bca5a3af012dc6da92/Inflearn/Greedy/%EC%B5%9C%EB%8C%80%20%EC%88%98%EC%9E%85%20%EC%8A%A4%EC%BC%80%EC%A4%84.md)
