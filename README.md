@@ -14,6 +14,8 @@
 ## 🏆 Baekjoon
 
 ### Bronze
+- [2309 일곱 난쟁이](https://github.com/0seony/algorithm-study/blob/bc058f755a2ad2a6fdde8d4fe58814d04e91aeca/Baekjoon/2309.md)
+- [10808 알파벳 개수](https://github.com/0seony/algorithm-study/blob/bc058f755a2ad2a6fdde8d4fe58814d04e91aeca/Baekjoon/10808.md)
 
 ### Silver
 
