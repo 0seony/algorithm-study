@@ -16,6 +16,10 @@
 ### Bronze
 - [2309 일곱 난쟁이](https://github.com/0seony/algorithm-study/blob/bc058f755a2ad2a6fdde8d4fe58814d04e91aeca/Baekjoon/2309.md)
 - [10808 알파벳 개수](https://github.com/0seony/algorithm-study/blob/bc058f755a2ad2a6fdde8d4fe58814d04e91aeca/Baekjoon/10808.md)
+- [2979 트럭 주차](https://github.com/0seony/algorithm-study/blob/024e023aac94b96da6bd71312872a267b16ae665/Baekjoon/2979.md)
+- [10988 팰린드롬인지 확인하기](https://github.com/0seony/algorithm-study/blob/024e023aac94b96da6bd71312872a267b16ae665/Baekjoon/10988.md)
+- [1159 농구 경기](https://github.com/0seony/algorithm-study/blob/024e023aac94b96da6bd71312872a267b16ae665/Baekjoon/1159.md)
+- [11655 ROT13](https://github.com/0seony/algorithm-study/blob/024e023aac94b96da6bd71312872a267b16ae665/Baekjoon/11655.md)
 
 ### Silver
 
@@ -28,6 +32,10 @@
 - [7795 먹을 것인가 먹힐 것인가](https://github.com/0seony/algorithm-study/blob/f5236bdfa21bfde6de00e616689a363f1339f159/Baekjoon/7795.md)
 - [1535 안녕](https://github.com/0seony/algorithm-study/blob/f5236bdfa21bfde6de00e616689a363f1339f159/Baekjoon/1535.md)
 - [14496 그대, 그머가 되어](https://github.com/0seony/algorithm-study/blob/4caeb61b2e6080e161870046318c3dbc4c3713c7/Baekjoon/14496.md)
+- [9996 한국이 그리울 땐 서버에 접속하지](https://github.com/0seony/algorithm-study/blob/024e023aac94b96da6bd71312872a267b16ae665/Baekjoon/9996.md)
+- [2559 수열](https://github.com/0seony/algorithm-study/blob/024e023aac94b96da6bd71312872a267b16ae665/Baekjoon/2559.md)
+- [1620 나는야 포켓몬 마스터 이다솜](https://github.com/0seony/algorithm-study/blob/024e023aac94b96da6bd71312872a267b16ae665/Baekjoon/1620.md)
+- [9375 패션왕 신해빈](https://github.com/0seony/algorithm-study/blob/024e023aac94b96da6bd71312872a267b16ae665/Baekjoon/9375.md)
 
 ### Gold
 
